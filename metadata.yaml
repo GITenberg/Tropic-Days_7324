@@ -1,0 +1,28 @@
+_repo: Tropic-Days_7324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banfield, E. J. (Edmund James)
+    alias: Banfield, Edmund James
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '1701'
+    url: http://www.gutenberg.org/2009/agents/1701
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_James_Banfield
+description: Cover -- Contents.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Australia -- Queensland'
+- !lcsh 'Dunk Island (Qld.)'
+- !lcc 'DU'
+- !lcsh 'Aboriginal Australians -- Government relations'
+- GITenberg
+title: Tropic Days
+url: http://www.gutenberg.org/ebooks/7324
