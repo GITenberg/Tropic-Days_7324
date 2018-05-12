@@ -1,5 +1,8 @@
 _repo: Tropic-Days_7324
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Banfield, E. J. (Edmund James)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1701
     wikipedia: http://en.wikipedia.org/wiki/Edmund_James_Banfield
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7324#Tropic-Days
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
